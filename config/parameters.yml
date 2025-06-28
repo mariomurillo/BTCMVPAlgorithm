@@ -1,0 +1,11 @@
+fast_ema_period: 9
+slow_ema_period: 20
+stop_loss_percent: 0.5
+take_profit_percent: 1
+broker_fee_percentage: 0.1
+estimated_slippage_percentage: 0.05
+volume_factor_percent: 50
+out_by_time_minutes: 60
+trailing_stop_percent: 2
+hourly_ema_period: 20
+min_candle_body_percentage: 20
